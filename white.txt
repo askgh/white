@@ -157,7 +157,6 @@
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
-||cnbeta.com
 ||cnblogs.com
 ||cnki.net
 ||cnr.cn
